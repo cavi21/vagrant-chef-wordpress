@@ -1,6 +1,6 @@
 name             "wordpress-configure"
-maintainer       "Rob Martin"
-maintainer_email "rob@version2beta.com"
+maintainer       "Agustin Cavilliotti"
+maintainer_email "cavi21@gmail.com"
 license          "none"
 description      "configures a wordpress dev environment"
 
