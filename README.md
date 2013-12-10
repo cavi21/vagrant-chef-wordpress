@@ -7,7 +7,7 @@ A shortcut to a Wordpress dev environment on a Vagrant VirtualBox provisioned wi
 One: Clone this repository.
 
 ```
-git clone https://github.com/Version2beta/vagrant-chef-wordpress.git
+git clone https://github.com/cavi21/vagrant-chef-wordpress.git
 ```
 
 Two: Vagrant up, yo.
